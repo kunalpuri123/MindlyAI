@@ -8,8 +8,8 @@ import { Spotlight } from "@/components/ui/Spotlight";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "PrepMate",
-  description: "AI Interview application.",
+  title: "MindlyAI",
+  description: "AI Psycologist and Mindfullness coach..",
 };
 
 export default function RootLayout({ children }) {
