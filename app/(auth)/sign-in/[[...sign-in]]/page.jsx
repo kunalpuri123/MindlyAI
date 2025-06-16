@@ -24,12 +24,12 @@ const Navbar = () => {
             letterSpacing: "-0.05em",
           }}
         >
-          <span className="text-white">Prep</span>
+          <span className="text-white">Mindly</span>
           <i
             className="bg-gradient-to-r from-purple-400 to-purple-600 text-transparent bg-clip-text animate-gradient-move"
             style={{ display: "inline-block" }}
           >
-            Mate
+            AI
           </i>
         </h1>
       </div>
@@ -56,7 +56,7 @@ export default function Page() {
             />
 
             <div className="hidden lg:relative lg:block lg:p-12">
-              <span className="text-white">Prep</span>
+              <span className="text-white">Mindly</span>
               <i
                 className="bg-gradient-to-r from-purple-400 to-purple-600 text-transparent bg-clip-text animate-gradient-move"
                 style={{ display: "inline-block" }}
@@ -65,11 +65,11 @@ export default function Page() {
               </i>
 
               <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-                Welcome to PrepMate! 🦑
+                Welcome to MindlyAI! 🦑
               </h2>
 
               <p className="mt-4 leading-relaxed text-white/90">
-                Your Preparation begins here!
+                Your journey begins here!
               </p>
             </div>
           </section>
